@@ -4,7 +4,7 @@
 وتدور أحداث الفيديو حول خالد، وهو طالب جامعي يمتلك العديد من المهارات والقدرات المميزة، لكنه يعاني من الخجل والخوف من التعامل مع الآخرين والتحدث أو الظهور أمام الجمهور. وبمساعدة صديقه مصطفى، يبدأ خالد في مواجهة مخاوفه والخروج من منطقة الراحة الخاصة به، من خلال خوض تجربة القيادة، ليكتشف في النهاية أن قدراته وإمكانياته أكبر مما كان يتوقع.
 
 
-## 🤝Team Members : 
+## Team Members : 
 
 - Wessam zaki
 - Manar adel
@@ -22,7 +22,8 @@
 - مرحلة التقييم والتطوير: متابعة تفاعل الجمهور وقياس مدى وصول الرسالة والاستفادة من الآراء لتطوير الأعمال القادمة.
 
 
-سيتم تنفيذ المشروع من خلال مجموعة هذه المراحل المتتابعة، تبدأ باختيار مشكلة الرهاب الاجتماعي وتسليط الضوء عليها لكن هدفنا لم يتوقف عند تقديم المشروع النهائي فقط؛ بل سعينا إلى تحويل الفكرة إلى مبادرة مستمرة، من خلال إنشاء صفحات على منصتي Instagram وTikTok لنشر الوعي بالصحة النفسية، وتسليط الضوء على المواقف والتحديات النفسية التي قد نواجهها في حياتنا اليومية، والتي قد نشعر بالحرج من التحدث عنها، أو لا ندرك من الأساس أنها تمثل مشكلة تحتاج إلى الاهتمام.
+
+تم تنفيذ المشروع من خلال مجموعة هذه المراحل المتتابعة، تبدأ باختيار مشكلة الرهاب الاجتماعي وتسليط الضوء عليها لكن هدفنا لم يتوقف عند تقديم المشروع النهائي فقط؛ بل سعينا إلى تحويل الفكرة إلى مبادرة مستمرة، من خلال إنشاء صفحات على منصتي Instagram وTikTok لنشر الوعي بالصحة النفسية، وتسليط الضوء على المواقف والتحديات النفسية التي قد نواجهها في حياتنا اليومية، والتي قد نشعر بالحرج من التحدث عنها، أو لا ندرك من الأساس أنها تمثل مشكلة تحتاج إلى الاهتمام.
 
 ومن هنا جاءت فكرتنا في إنشاء مساحة توعوية تساعد الأفراد على فهم أنفسهم ومشاعرهم، وتشجعهم على التعبير عما يواجهونه، وتقديم محتوى يساهم في توعيتهم ومساعدتهم على إدراك أن طلب الدعم ليس أمرًا يدعو للخجل.
 
@@ -30,18 +31,22 @@
 ## 🖇️Links
 - [Instgram page ](https://www.instagram.com/sawiy.space?dlrf=MTR5cGhnd2ZsZjhpOA==)
 - [Tiktok page](https://www.tiktok.com/@sawiy.space?_r=1&_t=ZS-9B6XtLKSTNF)
-## Logo 
-![Our logo here]()
+## 🫟Logo mockup
+![Mockup here](https://github.com/wessamzaki0/Sawiy-social-Anxiety/blob/10fc28fc7731ee3152307f9e1da7bb95d0607b9f/project%20images/sowiy%20logo%20mockup.png)
 ## 📌Roles & Responsibilities :
 
-- Content Writing Team: Responsible for research, scriptwriting, and developing awareness messages by mostafa & wessam 
-- Acting and Filming Team: Responsible for portraying the characters and performing the required scenes by all of us mainly Khaled , mohammed 
-- Directing and Editing Team: Responsible for organizing scenes, editing footage, and producing the final video by all of us mainly mostafa 
-- Marketing and Publishing Team: Responsible for managing social media platforms, publishing content, and engaging with the audience by manar & hamza
-- Management and Organization Team: Responsible for monitoring workflow, distributing tasks, coordinating team members, and ensuring adherence to deadlines by wessam
+- Content Writing : Responsible for scriptwriting, and developing awareness messages by mostafa & wessam & manar
+- Acting and Filming : Responsible for portraying the characters and performing the required scenes mainly by Khaled , mohammed 
+- Directing and Editing : Responsible for organizing scenes, editing footage, and producing the final video mainly by mostafa 
+- Marketing and Publishing : Responsible for managing social media platforms, publishing content, and engaging with the audience by manar & hamza
+- Management and Organization : Responsible for monitoring workflow, distributing tasks, coordinating team members, and ensuring adherence to deadlines by wessam
   
 ## 📈📉KPIS :
 
-## Instructor : Ali Abdelrasoul 
-## Project Files
+## 👨‍🏫Instructor : 
+Ali Abdelrasoul 
+## 📂Project Files :
+``` bash
+git clone احطه هنا علطول لينك جيت هاب المشروع
+cd project
 
